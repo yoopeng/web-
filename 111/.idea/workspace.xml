@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd51e366-f2a5-40ef-9dde-cf241ec7fa9b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="重构web自动化框架" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nh82TMrCX48xGiqtrVbRTgbtaB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../重构接口自动化框架" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\重构web自动化框架" />
+      <recent name="F:\重构web自动化框架\venv" />
+      <recent name="F:\重构web自动化框架\Run" />
+      <recent name="F:\重构web自动化框架\Output\report" />
+      <recent name="F:\重构web自动化框架\TestCases" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\重构web自动化框架\pytest_learn" />
+      <recent name="F:\重构web自动化框架\Run" />
+      <recent name="F:\重构web自动化框架\test_run" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.2023复习2">
+    <configuration name="2023复习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="重构web自动化框架" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023复习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2023复习2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="重构web自动化框架" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023复习2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aaaa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="重构web自动化框架" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_ee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="重构web自动化框架" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_learn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytest_learn/test_ee.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 2023复习1.aa" type="tests" factoryName="Unittests" editBeforeRun="true" temporary="true">
+      <module name="重构web自动化框架" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;2023复习1.aa&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 2023复习1.aa" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="重构web自动化框架" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="E:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;2023复习1.aa&quot;" />
+      <option name="_new_targetType" value="&quot;CUSTOM&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in 2023复习1.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="重构web自动化框架" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/2023复习1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.2023复习2" />
+      <item itemvalue="Python.aaaa" />
+      <item itemvalue="Python.test_ee" />
+      <item itemvalue="Python tests.Unittests for 2023复习1.aa" />
+      <item itemvalue="Python tests.Unittests in 2023复习1.py" />
+      <item itemvalue="Python.2023复习" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in 2023复习1.py" />
+        <item itemvalue="Python.2023复习" />
+        <item itemvalue="Python tests.Unittests for 2023复习1.aa" />
+        <item itemvalue="Python.test_ee" />
+        <item itemvalue="Python.aaaa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd51e366-f2a5-40ef-9dde-cf241ec7fa9b" name="Default Changelist" comment="" />
+      <created>1611830754790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611830754790</updated>
+      <workItem from="1611830768616" duration="30923000" />
+      <workItem from="1611904613159" duration="925000" />
+      <workItem from="1611905546818" duration="27217000" />
+      <workItem from="1611942213272" duration="1002000" />
+      <workItem from="1611994489462" duration="15441000" />
+      <workItem from="1612252842748" duration="7313000" />
+      <workItem from="1612362189774" duration="1674000" />
+      <workItem from="1614073359244" duration="1812000" />
+      <workItem from="1614150392535" duration="14895000" />
+      <workItem from="1614664676093" duration="6077000" />
+      <workItem from="1614786222076" duration="608000" />
+      <workItem from="1615009696497" duration="3057000" />
+      <workItem from="1615111656611" duration="12518000" />
+      <workItem from="1615525411515" duration="20000" />
+      <workItem from="1615525449588" duration="77000" />
+      <workItem from="1615525707053" duration="25000" />
+      <workItem from="1615525878310" duration="3046000" />
+      <workItem from="1615621688113" duration="4446000" />
+      <workItem from="1615733509313" duration="600000" />
+      <workItem from="1676200001797" duration="28841000" />
+      <workItem from="1676742348556" duration="7405000" />
+      <workItem from="1676918973944" duration="1121000" />
+      <workItem from="1676967338397" duration="596000" />
+      <workItem from="1677064380914" duration="2697000" />
+      <workItem from="1677420697137" duration="15253000" />
+      <workItem from="1678108240715" duration="9013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="46" key="#Unittests_for_2023复习1.aa" timestamp="1678108773909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="46" key="#Unittests_for_2023复习1.aa/0.0.1536.824@0.0.1536.824" timestamp="1678108773909" />
+    <state x="477" y="46" key="#Unittests_for_2023复习1.aa_(1)" timestamp="1678108686033">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="46" key="#Unittests_for_2023复习1.aa_(1)/0.0.1536.824@0.0.1536.824" timestamp="1678108686033" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1678108672653">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1678108672653" />
+    <state x="506" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1677422280426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="506" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1677422280426" />
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1678108664806">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1678108664806" />
+    <state x="503" y="173" key="EnvironmentVariablesDialog" timestamp="1678108401692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="503" y="173" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1678108401692" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1678113881886">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1678113881886" />
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1678116281508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1678116281508" />
+    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1678116281508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1678116281508" />
+    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1678116281508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1678116281508" />
+    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1678116281508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1678116281508" />
+    <state width="1537" height="269" key="GridCell.Tab.1.bottom" timestamp="1678108109316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="269" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1678108109316" />
+    <state width="1537" height="269" key="GridCell.Tab.1.center" timestamp="1678108109315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="269" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1678108109315" />
+    <state width="1537" height="269" key="GridCell.Tab.1.left" timestamp="1678108109315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="269" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1678108109315" />
+    <state width="1537" height="269" key="GridCell.Tab.1.right" timestamp="1678108109315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="269" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1678108109315" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1678108734321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1678108734321" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1677064519401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1677064519401" />
+    <state x="560" y="91" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1677066272036">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="560" y="91" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1677066272036" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1676212818348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1676212818348" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/web$Unittests_in_20231_py.coverage" NAME="Unittests in 2023复习1.py Coverage Results" MODIFIED="1678109464282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web$20231.coverage" NAME="2023复习1 Coverage Results" MODIFIED="1676816099344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web$Unittests_for_20231_aa.coverage" NAME="Unittests for 2023复习1.aa Coverage Results" MODIFIED="1678108754086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web$Unittests_in_login_py.coverage" NAME="Unittests in login.py Coverage Results" MODIFIED="1611904549319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/web$2023.coverage" NAME="2023复习 Coverage Results" MODIFIED="1678109283246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web$aaaa.coverage" NAME="aaaa Coverage Results" MODIFIED="1676817903018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1612363044810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/web$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1611929069550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Run" />
+    <SUITE FILE_PATH="coverage/web$run.coverage" NAME="run Coverage Results" MODIFIED="1611904065600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web$run1__1_.coverage" NAME="run1 (1) Coverage Results" MODIFIED="1611906041234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_run" />
+    <SUITE FILE_PATH="coverage/web$test_ee.coverage" NAME="test_ee Coverage Results" MODIFIED="1677426677285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest_learn" />
+    <SUITE FILE_PATH="coverage/web$20232.coverage" NAME="2023复习2 Coverage Results" MODIFIED="1678116281495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web$run1__2_.coverage" NAME="run1 (2) Coverage Results" MODIFIED="1611914350805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Run" />
+    <SUITE FILE_PATH="coverage/web$run1.coverage" NAME="run1 Coverage Results" MODIFIED="1611905831678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

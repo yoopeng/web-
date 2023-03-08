@@ -1,0 +1,106 @@
+说明：
+    该框架采用selenium开源工具  基于unittest
+    用PO（pageobject）思想,元素定位（方便页面改动后的修改）、驱动数据（方便更改数据）、页面操作、业务操作分离 的封装
+    已完成基本常用的页面操作方法封装(元素定位，点击，输入，获取text文本，获取属性，iframe/frame表单切换，窗口切换，上下滚动，等待元素可见/存在，获取toast，截图，alert弹框，上传文件，鼠标悬停)，
+    直接调用传参，发送邮箱报告，数据查询校验
+
+    用例的执行根据实际情况 ：多线程执行（一个测试用例文件（.py文件）为一个线程），失败用例重新执行
+
+    目录说明：Common——基本常用的页面操作方法（等待元素，截图，定位，输入，点击，iframe切换，窗口切换等）
+             config——配置文件（日志配置文件等）
+             Output——输出目录（日志，截图，报告等）
+             PageLocators——页面元素集
+             PageObjects——页面操作
+             Run——主函数执行
+             TestCases——测试用例集
+             TestDatas——数据集（用例用数据 ddt驱动）
+    生成测试报告用from unittestreport import TestRunner  先安装pip install unittestreport
+
+    完成执行用例后发送测试报告到对应邮箱
+未完成：用例挑选，指定用例执行·
+
+后续加入jenkins配置 ，及接入java，php，项目在服务器部署完成能自动运行
+想改造成用excel根据模板填写 元素定位（关键字驱动），数据驱动 以完成以整条测试用例
+
+
+常见问题：1.常见的页面元素动态变化：采用其他定位方式，层级定位，组合定位，绝对定位，一组元素索引定位，或部分匹配By.xpath("//input[starts-with(@id,'file')  以什么开始
+                                                                                                   By.xpath("//input[ends-with(@id,'_11')   以什么结束
+                                                                                                   By.xpath("//input[contains(@id,'_')]")   包含什么
+
+     2.遇到元素不可见display='None'   通过js代码修改display='block'     driver.find_element_by_id("kw").is_displayed()可见则返回 True， 否则返回 False
+                                                                     js="docuent.querySelectorAll('select')[0].style.display='block';
+                                                                     self.driver.execute_script(js)
+
+                                                                       getElementById(\"txtPassword\")：返回对指定ID第一个对象的引用
+                                                                        getElementsByName() ：返回带有指定名称的对象集合
+                                                                        getElementsByTagName()：返回带有指定标签名的对象集合
+
+     3.select选择框
+       ①直接定位
+      ②二次定位。先定位到select框，再定位到select选项。
+      ③导入Select模块（推荐使用） -- 根据属性或者索引来定位。
+         先要导入Select方法     from selenium.webdriver.support.ui import Select 。
+         然后通过索引：s = driver.find_element_by_id('nr')
+                       Select(s).select_by_index(2)
+         通过value值定位：s = driver.find_element_by_id('nr')
+                          Select(s).select_by_value('20')
+         通过text值来定位：s = driver.find_element_by_id('nr')
+                          Select(s).select_by_visible_text('宝马')
+     4.打开新的窗口也先切换
+     5.有iframe/frame  先切换进去
+     6.有隐藏操作 可以 先触发在定位
+
+     元素定位(
+     find_element_by_id()
+     find_element_by_name()
+     find_element_by_teg_name()
+     find_element_by_class_name()
+     find_element_by_link_text()
+     find_element_by_partial_text()
+     find_element_by_xpath()
+     find_elemeny_by_css_selector()
+
+    另一种写法：
+    from selenium.webdriver.common.by import By
+    find_element(By.ID,'')
+    .......)
+
+    点击(
+    driver.find_element_by_id('xxx').click()
+    )
+
+    输入(
+    driver.find_element_by_id('xxx').send_keys('xxx')
+    )
+
+    获取text文本(
+     driver.find_element_by_id('xxx').text
+    )
+
+    获取属性值(
+    driver.find_element_by_id('xxx').get_attribute()
+    )
+
+    iframe/frame表单切换(
+    1.首先获取iframe/frame的定位
+    a=driver.find_element_by_id('xxx')
+    2.切换进表单里
+    driver.switch_to.frame(a)
+    3.多个表单嵌套，一层一层切进去
+    另一种切换表单方法，如id和name是唯一时，，可以直接使用 driver.switch_to.frame('frame_id/name')
+    切换上一层表单 driver.switch_to.parent_frame()
+    直接切换为最外层表单driver.switch_to.default_content()  切换回默认表单（最外层）
+    )
+
+    窗口切换(
+    第一种方法：a=driver.current_window_handle  获取当前窗口handle
+               all_handles=driver.window_handles
+               for handle in all_handles:
+                    if handle!=a:
+                        driver.switch_to.window(a)
+    第二种方法：all_handles=driver.window_handles
+               driver.switch_to.window(all_handles[-1])
+    )
+
+     点击，输入，获取text文本，获取属性，iframe/frame表单切换，窗口切换，上下滚动，等待元素可见/存在，获取toast，截图，alert弹框，上传文件，鼠标悬停)，
+    直接调用传参，发送邮箱报告，数据查询校验
