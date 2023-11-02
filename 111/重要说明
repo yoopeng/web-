@@ -4,30 +4,30 @@
     已完成基本常用的页面操作方法封装(元素定位，点击，输入，获取text文本，获取属性，iframe/frame表单切换，窗口切换，上下滚动，等待元素可见/存在，获取toast，截图，alert弹框，上传文件，鼠标悬停)，
     直接调用传参，发送邮箱报告，数据查询校验
 
-    用例的执行根据实际情况 ：多线程执行（一个测试用例文件（.py文件）为一个线程），失败用例重新执行
+    用例的执行根据实际情况 ：多线程执行（一个测试用例文件（.py文件）为一个线程），失败用例重新执行（失败重跑）
 
     目录说明：Common——基本常用的页面操作方法（等待元素，截图，定位，输入，点击，iframe切换，窗口切换等）
              config——配置文件（日志配置文件等）
              Output——输出目录（日志，截图，报告等）
              PageLocators——页面元素集
              PageObjects——页面操作
-             Run——主函数执行
+             Run——主函数执行入口
              TestCases——测试用例集
              TestDatas——数据集（用例用数据 ddt驱动）
     生成测试报告用from unittestreport import TestRunner  先安装pip install unittestreport
 
     完成执行用例后发送测试报告到对应邮箱
-未完成：用例挑选，指定用例执行·
+    未完成：用例挑选，指定用例执行·
 
 后续加入jenkins配置 ，及接入java，php，项目在服务器部署完成能自动运行
 想改造成用excel根据模板填写 元素定位（关键字驱动），数据驱动 以完成以整条测试用例
-
+或提供前段页面编写用例
 
 常见问题：1.常见的页面元素动态变化：采用其他定位方式，层级定位，组合定位，绝对定位，一组元素索引定位，或部分匹配By.xpath("//input[starts-with(@id,'file')  以什么开始
                                                                                                    By.xpath("//input[ends-with(@id,'_11')   以什么结束
                                                                                                    By.xpath("//input[contains(@id,'_')]")   包含什么
 
-     2.遇到元素不可见display='None'   通过js代码修改display='block'     driver.find_element_by_id("kw").is_displayed()可见则返回 True， 否则返回 False
+    2.遇到元素不可见display='None'   通过js代码修改display='block'     driver.find_element_by_id("kw").is_displayed()可见则返回 True， 否则返回 False
                                                                      js="docuent.querySelectorAll('select')[0].style.display='block';
                                                                      self.driver.execute_script(js)
 
